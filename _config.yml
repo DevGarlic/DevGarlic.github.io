@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "DevGarlic"
+  avatar           : "https://avatars.githubusercontent.com/u/155062121?v=4"
+  bio              : "네 하나님 여호와를 기억하라 그가 네게 재물 얻을 능을 주셨음이라"
+  location         : "KR"
+  email            : "DevGarlic@proton.me"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/DevGarlic"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/hsj._.08/"
 
 # Site Footer
 footer:
